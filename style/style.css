@@ -70,3 +70,30 @@ h3{
     border-radius: 10px;
 
 }
+
+.counter-box{
+    float: left;
+    width: 87.5%;
+    margin-left: 5%;
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gainsboro;
+}
+
+.counter{
+    margin-left: 20%;
+}
+
+
+footer h2{
+
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    padding-bottom: 100px;
+}
