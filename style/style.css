@@ -8,6 +8,9 @@ h1{
 h2{
     font-size: 40px;
 }
+h3{
+    font-weight: bold;
+}
 .orange-color{
     color: orange;
 }
@@ -47,4 +50,23 @@ h2{
     margin:auto;
     text-align: center;
     padding: 2% 25%;
+}
+
+
+.recipes{
+    float: left;
+    width: 25%;
+    margin-left: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gainsboro;
+
+}
+
+.recipes-img{
+    padding-top: 5px;
+    width: 475px;
+    border-radius: 10px;
+
 }
